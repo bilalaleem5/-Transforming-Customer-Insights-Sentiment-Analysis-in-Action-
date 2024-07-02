@@ -41,18 +41,6 @@ Clone the Repository
 
 
 
-sh
-
-Copy code
-
-git clone https://github.com/yourusername/sentiment-analysis-tool.git
-
-cd sentiment-analysis-tool
-
-Install Dependencies
-
-
-
 Install the required Python packages:
 
 
